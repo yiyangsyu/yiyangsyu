@@ -9,6 +9,14 @@ AI Engineer & Researcher specializing in Machine Learning, Deep Learning, Comput
 
 ---
 
+## 📌 Current Status | 目前狀態
+
+Recently graduated with an M.S. degree from NTUT. Currently organizing research outcomes, technical portfolios, and learning materials while awaiting military service.
+
+近期已取得國立臺北科技大學碩士學位，目前正整理研究成果、技術作品集及學習資料，並等待入伍接受軍事訓練。
+
+---
+
 ## 🎓 Education | 學歷
 
 - M.S. in Automation Technology, National Taipei University of Technology (NTUT)
