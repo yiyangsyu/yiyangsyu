@@ -1,4 +1,4 @@
-# Hi, I'm Yi-Yang Hsu 👋
+# Hi, I'm Yi-Yang Syu 👋
 # 您好，我是徐翌洋 👋
 
 ## 👨‍💻 About Me | 關於我
@@ -11,13 +11,11 @@ AI Engineer & Researcher specializing in Machine Learning, Deep Learning, Comput
 
 ## 🎓 Education | 學歷
 
-2024~2026
-- M.S. in Graduate Institute of Automation Technology, National Taipei University of Technology (NTUT)
-  - 國立臺北科技大學 自動化科技研究所 碩士
+- M.S. in Automation Technology, National Taipei University of Technology (NTUT)
+  - 國立臺北科技大學 自動化科技研究所 碩士(2024-2026)
 
-2020~2024
 - B.S. in Applied Artificial Intelligence, Ming Chuan University (MCU)
-  - 銘傳大學 人工智慧應用學系 學士
+  - 銘傳大學 人工智慧應用學系 學士(2020-2024)
 
 ---
 
