@@ -68,3 +68,11 @@ This repository contains my academic, research, and professional portfolio, incl
 - 🏅 Professional Certifications
 - 📚 Course Notes
 - ✅ Course Completion Certificates
+
+---
+
+## 📫 Contact | 聯絡方式
+
+- Email: yiyangsyu@gmail.com
+- LinkedIn: 
+- GitHub: https://github.com/yiyangsyu
