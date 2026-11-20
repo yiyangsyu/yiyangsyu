@@ -19,10 +19,10 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 ## 🎓 Education | 學歷
 
 - M.S. in Automation Technology, National Taipei University of Technology (2024-2026)
-  - 國立臺北科技大學 自動化科技研究所 碩士(2024-2026)
+  - 國立臺北科技大學 自動化科技研究所 碩士 (2024-2026)
 
 - B.S. in Applied Artificial Intelligence, Ming Chuan University (2020-2024)
-  - 銘傳大學 人工智慧應用學系 學士(2020-2024)
+  - 銘傳大學 人工智慧應用學系 學士 (2020-2024)
 
 ---
 
@@ -54,6 +54,17 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 - GitHub
 
 ---
+
+## 🏅 Professional Certifications | 專業證照
+
+- e-Enterprise Data Analyst Certification - Big Data Process and Analysis, Computer Skills Foundation (2023)
+  - 企業電子化資料分析師－巨量資料處理與分析，財團法人中華民國電腦技能基金會 (2023)
+
+- TQC+ Artificial Intelligence Applications and Technologies - Professional Level, Computer Skills Foundation (2023)
+  - 人工智慧應用與技術－專業級，財團法人中華民國電腦技能基金會 (2023)
+
+---
+
 ## 🌟 Portfolio Overview | 個人作品總覽
 
 This Github account contains my academic, research, and professional portfolio, including thesis work, research projects, technical implementations, certifications, and learning records.
