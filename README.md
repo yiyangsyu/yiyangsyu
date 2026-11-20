@@ -18,10 +18,10 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 
 ## 🎓 Education | 學歷
 
-- M.S. in Automation Technology, National Taipei University of Technology (NTUT)
+- M.S. in Automation Technology, National Taipei University of Technology (2024-2026)
   - 國立臺北科技大學 自動化科技研究所 碩士(2024-2026)
 
-- B.S. in Applied Artificial Intelligence, Ming Chuan University (MCU)
+- B.S. in Applied Artificial Intelligence, Ming Chuan University (2020-2024)
   - 銘傳大學 人工智慧應用學系 學士(2020-2024)
 
 ---
