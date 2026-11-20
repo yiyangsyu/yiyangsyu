@@ -6,6 +6,10 @@ AI Engineer & Researcher specializing in Machine Learning, Deep Learning, Comput
 
 人工智慧工程師與研究人員，專注於機器學習、深度學習、電腦視覺以及自動化技術。
 
+**AI Engineer & Researcher** specializing in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Automation Technology**.
+
+**人工智慧工程師與研究人員**，專注於**機器學習**、**深度學習**、**電腦視覺**以及**自動化技術**。
+
 ---
 
 ## 📌 Current Status | 目前狀態
