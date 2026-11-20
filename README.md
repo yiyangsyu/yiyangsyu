@@ -39,7 +39,7 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 
 ### Published
 
-1. Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
+Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
    *A Novel Local Dimming Approach by Controlling LCD Backlight Modules via Deep Learning.*
 
@@ -49,7 +49,7 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 
 ### Under Review
 
-1. Chen, S.-W., **Syu, Y.-Y.**, Weng, G.-J., & Chang, H.-R.
+Chen, S.-W., **Syu, Y.-Y.**, Weng, G.-J., & Chang, H.-R.
 
    *Comparison of Continual Learning Strategies for Wildlife Image Classification.*
 
