@@ -31,6 +31,7 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 - Machine Learning（機器學習）
 - Deep Learning（深度學習）
 - Computer Vision（電腦視覺）
+- Multimodal AI & LLM Systems（多模態人工智慧與大型語言模型系統）
 
 ---
 
