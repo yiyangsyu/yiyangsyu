@@ -1,4 +1,4 @@
-# Hi, I'm Yi-Yang Syu 👋 | 您好，我是徐翌洋 👋
+# Hi, I'm Yi-Yang Syu | 哈囉，我是徐翌洋 👋
 
 ## 👨‍💻 About Me | 關於我
 
