@@ -56,9 +56,9 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 ---
 ## 🌟 Portfolio Overview | 個人作品總覽
 
-This repository contains my academic, research, and professional portfolio, including thesis work, research projects, technical implementations, certifications, and learning records.
+This Github account contains my academic, research, and professional portfolio, including thesis work, research projects, technical implementations, certifications, and learning records.
 
-本儲存庫收錄本人學術、研究與專業作品，包含論文研究、專題實作、技術開發、專業證照及學習紀錄。
+本帳號收錄本人學術、研究與專業作品，包含論文研究、專題實作、技術開發、專業證照及學習紀錄。
 
 ### Contents
 
