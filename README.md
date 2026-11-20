@@ -19,7 +19,7 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 ## 🎓 Education | 學歷
 
 - M.S. in Automation Technology, National Taipei University of Technology (2024-2026)
-  - 國立臺北科技大學 自動化科技研究所 碩士 (2024-2026)
+  - 國立臺北科技大學 自動化科技研究所 碩士 (2024-2026)｜[NMOS Lab 微奈米光學系統研究室](https://regal-jelly-ffe70e.netlify.app/members)
 
 - B.S. in Applied Artificial Intelligence, Ming Chuan University (2020-2024)
   - 銘傳大學 人工智慧應用學系 學士 (2020-2024)
