@@ -37,19 +37,25 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 
 ## 📚 Publications | 學術發表
 
-### Undergraduate Research Publication | 學士研究成果發表
+### Published
 
-Chia, T.-L., **Syu, Y.-Y.,** & Huang, P.-S. (2025).
+1. Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
-**A Novel Local Dimming Approach by Controlling LCD Backlight Modules via Deep Learning**
+   *A Novel Local Dimming Approach by Controlling LCD Backlight Modules via Deep Learning.*
 
-*Information*, 16(9), 815.
+   Information, 16(9), 815.
 
-DOI: https://doi.org/10.3390/info16090815
+   DOI: https://doi.org/10.3390/info16090815
 
-**Role:** Co-Author (Second Author)
+### Under Review
 
-**Related Research:** Undergraduate Capstone Project, Department of Applied Artificial Intelligence, Ming Chuan University.
+1. Chen, S.-W., **Syu, Y.-Y.**, Weng, G.-J., & Chang, H.-R.
+
+   *Comparison of Continual Learning Strategies for Wildlife Image Classification.*
+
+   Submitted to *Image and Vision Computing*.
+
+   Status: Under Review.
 
 ---
 
