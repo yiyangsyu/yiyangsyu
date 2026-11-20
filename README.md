@@ -49,13 +49,13 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
 ### Under Review
 
-Chen, S.-W., **Syu, Y.-Y.**, Weng, G.-J., & Chang, H.-R.
+  Chen, S.-W., **Syu, Y.-Y.**, Weng, G.-J., & Chang, H.-R.
 
-   *Comparison of Continual Learning Strategies for Wildlife Image Classification.*
+     *Comparison of Continual Learning Strategies for Wildlife Image Classification.*
 
-   Submitted to *Image and Vision Computing*.
+     Submitted to *Image and Vision Computing*.
 
-   Status: Under Review.
+     Status: Under Review.
 
 ---
 
