@@ -39,7 +39,7 @@ Recently graduated with an M.S. degree from NTUT. Currently organizing research 
 
 ### Undergraduate Research Publication | 學士研究成果發表
 
-Syu, Y.-Y., Chia, T.-L., & Huang, P.-S. (2025).
+Chia, T.-L., **Syu, Y.-Y.,** & Huang, P.-S. (2025).
 
 **A Novel Local Dimming Approach by Controlling LCD Backlight Modules via Deep Learning**
 
