@@ -49,9 +49,7 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
 ### Under Review
 
-Chen, S.-W., **Syu, Y.-Y.**, Weng, G.-J., & Chang, H.-R.
-
-  *Comparison of Continual Learning Strategies for Wildlife Image Classification.*
+  *A manuscript on continual learning for image classification.*
 
   Submitted to *Image and Vision Computing*.
 
