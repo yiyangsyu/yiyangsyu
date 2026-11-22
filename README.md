@@ -59,7 +59,7 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
 ## 🏅 Awards & Honors | 獲獎紀錄
 
-### Undergraduate Research Project
+### B.S. Capstone Research
 Deep Learning-Based Local Dimming Technology for Liquid Crystal Displays
 
 - 🏅 Outstanding Undergraduate Research Award
