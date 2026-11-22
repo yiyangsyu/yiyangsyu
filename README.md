@@ -62,11 +62,11 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 ### Undergraduate Research Project
 Deep Learning-Based Local Dimming Technology for Liquid Crystal Displays
 
-- 🏆 Outstanding Undergraduate Research Award
+- 🏅 Outstanding Undergraduate Research Award
   - Selected from departmental project champions in the university-wide undergraduate research competition.
   - 專題研究特優獎（全校專題競賽特優獎）
 
-- 🏆 Distinguished Undergraduate Research Award
+- 🏅 Distinguished Undergraduate Research Award
   - Ranked 1st in the Department of Applied Artificial Intelligence.
   - 專題研究傑出獎（人工智慧應用學系專題競賽第一名）
 
@@ -77,7 +77,7 @@ Resulting Publication:
 
 ---
 
-## 🏆 Competitions & Academic Activities | 競賽與學術活動
+## 💡 Academic Activities | 學術活動
 
 ### 2024 NCHC × NVIDIA × OpenACC Hackathon
 
@@ -115,7 +115,7 @@ https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
 
 ---
 
-## 🏅 Professional Certifications | 專業證照
+## 📜 Professional Certifications | 專業證照
 
 - e-Enterprise Data Analyst Certification - Big Data Process and Analysis, Computer Skills Foundation (2023)
   - 企業電子化資料分析師－巨量資料處理與分析，財團法人中華民國電腦技能基金會 (2023)
