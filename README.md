@@ -57,6 +57,26 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
 ---
 
+## 🏅 Awards & Honors | 獲獎紀錄
+
+### Undergraduate Research Project
+Deep Learning-Based Local Dimming Technology for Liquid Crystal Displays
+
+- 🏆 Outstanding Undergraduate Research Award
+  - Selected from departmental project champions in the university-wide undergraduate research competition.
+  - 專題研究特優獎（全校專題競賽特優獎）
+
+- 🏆 Distinguished Undergraduate Research Award
+  - Ranked 1st in the Department of Applied Artificial Intelligence.
+  - 專題研究傑出獎（人工智慧應用學系專題競賽第一名）
+
+Resulting Publication:
+- Chia, T.-L., Syu, Y.-Y., & Huang, P.-S. (2025)
+  A Novel Local Dimming Approach by Controlling LCD Backlight Modules via Deep Learning.
+  Information, 16(9), 815.
+
+---
+
 ## 🏆 Competitions & Academic Activities | 競賽與學術活動
 
 ### 2024 NCHC × NVIDIA × OpenACC Hackathon
