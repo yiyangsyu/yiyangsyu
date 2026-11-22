@@ -57,6 +57,24 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
 ---
 
+## 🏆 Competitions & Academic Activities | 競賽與學術活動
+
+### 2024 NCHC × NVIDIA × OpenACC Hackathon
+
+**Audio-MAE for Bird Song Pretraining**
+
+- Team: NTUT Birdsong
+- Role: Team Member
+- Focus: Deep Learning Training Acceleration
+- Technologies: Audio-MAE, Swin Transformer, Vision Transformer, Transformer Engine, NVIDIA A100
+
+Featured by NCHC:
+https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
+
+*Project source code is not publicly available due to team ownership and collaboration agreements.*
+
+---
+
 ## 🛠 Skills | 技術技能
 
 ### Programming
