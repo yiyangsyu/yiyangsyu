@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me | 關於我
 
-AI Engineer & Researcher specializing in Machine Learning, Deep Learning, Computer Vision, and Automation Technology.
+AI Engineer & Researcher specializing in Machine Learning, Deep Learning, Computer Vision, Multimodal AI, LLM Systems, and Automation.
 
-人工智慧工程師與研究人員，專注於機器學習、深度學習、電腦視覺以及自動化技術。
+人工智慧工程師與研究人員，專注於機器學習、深度學習、電腦視覺、多模態人工智慧、大型語言模型系統以及自動化技術。
 
 ---
 
