@@ -49,7 +49,7 @@ Chia, T.-L., **Syu, Y.-Y.**, & Huang, P.-S. (2025).
 
 ### Under Review
 
-  *A manuscript on continual learning for image classification.*
+  A manuscript on continual learning for image classification.
 
   Submitted to *Image and Vision Computing*.
 
