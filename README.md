@@ -128,13 +128,13 @@ https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
 - GitHub
 
 ### AI Applications
-- Computer Vision
 - Multimodal AI
 - LLM Systems
+- Computer Vision
 
 ### Model Architectures
-- CNN-based Models
 - Transformer-based Models
+- CNN-based Models
 
 ---
 
