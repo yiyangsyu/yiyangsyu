@@ -2,9 +2,9 @@
 
 ## 👨‍💻 About Me | 關於我
 
-AI Engineer & Researcher specializing in Machine Learning, Deep Learning, Computer Vision, Multimodal AI, LLM Systems, and Automation.
+Passionate about building intelligent systems through Machine Learning, Computer Vision, Multimodal AI, and LLM technologies. My research interests include AI learning methodologies, intelligent systems, and application-oriented AI technologies.
 
-人工智慧工程師與研究人員，專注於機器學習、深度學習、電腦視覺、多模態人工智慧、大型語言模型系統以及自動化技術。
+致力於運用機器學習、電腦視覺、多模態人工智慧及大型語言模型技術打造智慧系統。研究方向涵蓋人工智慧學習方法、智慧系統開發以及實際應用導向的 AI 技術。
 
 ---
 
