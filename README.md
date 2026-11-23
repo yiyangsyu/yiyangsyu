@@ -95,6 +95,16 @@ https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
 
 ---
 
+## 📜 Professional Certifications | 專業證照
+
+- e-Enterprise Data Analyst Certification - Big Data Process and Analysis, Computer Skills Foundation (2023)
+  - 企業電子化資料分析師－巨量資料處理與分析，財團法人中華民國電腦技能基金會 (2023)
+
+- TQC+ Artificial Intelligence Applications and Technologies - Professional Level, Computer Skills Foundation (2023)
+  - 人工智慧應用與技術－專業級，財團法人中華民國電腦技能基金會 (2023)
+
+---
+
 ## 🛠 Skills | 技術技能
 
 ### Programming
@@ -103,25 +113,28 @@ https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
 - R
 - Git
 
-### AI / Deep Learning
+### AI Frameworks
 - PyTorch
 - TensorFlow
 - OpenCV
+
+### AI Platforms & Tools
+- Hugging Face
+- Ollama
 
 ### Development & Systems
 - Linux
 - Docker
 - GitHub
 
----
+### AI Applications
+- Computer Vision
+- Multimodal AI
+- LLM Systems
 
-## 📜 Professional Certifications | 專業證照
-
-- e-Enterprise Data Analyst Certification - Big Data Process and Analysis, Computer Skills Foundation (2023)
-  - 企業電子化資料分析師－巨量資料處理與分析，財團法人中華民國電腦技能基金會 (2023)
-
-- TQC+ Artificial Intelligence Applications and Technologies - Professional Level, Computer Skills Foundation (2023)
-  - 人工智慧應用與技術－專業級，財團法人中華民國電腦技能基金會 (2023)
+### Model Architectures
+- CNN-based Models
+- Transformer-based Models
 
 ---
 
