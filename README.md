@@ -64,11 +64,11 @@ Deep Learning-Based Local Dimming Technology for Liquid Crystal Displays
 
 - 🏅 Outstanding Undergraduate Research Award
   - Selected from departmental project champions in the university-wide undergraduate research competition.
-  - 專題研究特優獎（全校專題競賽特優獎）
+  - 專題研究特優獎（全校專題競賽特優獎）｜[PDF](https://github.com/yiyangsyu/research-awards/blob/main/Outstanding_Undergraduate_Research_Award.pdf)
 
 - 🏅 Distinguished Undergraduate Research Award
   - Ranked 1st in the Department of Applied Artificial Intelligence.
-  - 專題研究傑出獎（人工智慧應用學系專題競賽第一名）
+  - 專題研究傑出獎（人工智慧應用學系專題競賽第一名）｜[PDF](https://github.com/yiyangsyu/research-awards/blob/main/Distinguished_Undergraduate_Research_Award.pdf)
 
 Resulting Publication:
 - Chia, T.-L., Syu, Y.-Y., & Huang, P.-S. (2025)
