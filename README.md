@@ -64,11 +64,11 @@ Deep Learning-Based Local Dimming Technology for Liquid Crystal Displays
 
 - 🏅 Outstanding Undergraduate Research Award
   - Selected from departmental project champions in the university-wide undergraduate research competition.
-  - 專題研究特優獎（全校專題競賽特優獎）｜[PDF](https://github.com/yiyangsyu/research-awards/blob/main/Outstanding_Undergraduate_Research_Award.pdf)
+  - 專題研究特優獎（全校專題競賽特優獎）｜[Link](https://github.com/yiyangsyu/research-awards/blob/main/Outstanding_Undergraduate_Research_Award.pdf)
 
 - 🏅 Distinguished Undergraduate Research Award
   - Ranked 1st in the Department of Applied Artificial Intelligence.
-  - 專題研究傑出獎（人工智慧應用學系專題競賽第一名）｜[PDF](https://github.com/yiyangsyu/research-awards/blob/main/Distinguished_Undergraduate_Research_Award.pdf)
+  - 專題研究傑出獎（人工智慧應用學系專題競賽第一名）｜[Link](https://github.com/yiyangsyu/research-awards/blob/main/Distinguished_Undergraduate_Research_Award.pdf)
 
 Resulting Publication:
 - Chia, T.-L., Syu, Y.-Y., & Huang, P.-S. (2025)
@@ -98,16 +98,16 @@ https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
 ## 📜 Professional Certifications | 專業證照與證明
 
 - OpenAI Academy – Build with AI Learning Path (All Courses Completed), OpenAI (2026)
-  - OpenAI Academy – Build with AI 學習路徑（全系列完課證明），OpenAI (2026)｜[Certificates]()
+  - OpenAI Academy – Build with AI 學習路徑（全系列完課證明），OpenAI (2026)｜[Link]()
 
 - OpenAI Academy – Apply AI at Work Learning Path (All Courses Completed), OpenAI (2026)
-  - OpenAI Academy – Apply AI at Work 學習路徑（全系列完課證明），OpenAI (2026)｜[Certificates]()
+  - OpenAI Academy – Apply AI at Work 學習路徑（全系列完課證明），OpenAI (2026)｜[Link]()
 
 - e-Enterprise Data Analyst Certification - Big Data Process and Analysis, Computer Skills Foundation (2023)
-  - 企業電子化資料分析師－巨量資料處理與分析，財團法人中華民國電腦技能基金會 (2023)｜[Certificate](https://github.com/yiyangsyu/certificates/blob/main/Big_Data_Process_and_Analysis.pdf)
+  - 企業電子化資料分析師－巨量資料處理與分析，財團法人中華民國電腦技能基金會 (2023)｜[Link](https://github.com/yiyangsyu/certificates/blob/main/Big_Data_Process_and_Analysis.pdf)
 
 - TQC+ Artificial Intelligence Applications and Technologies - Professional Level, Computer Skills Foundation (2023)
-  - 人工智慧應用與技術－專業級，財團法人中華民國電腦技能基金會 (2023)｜[Certificate](https://github.com/yiyangsyu/certificates/blob/main/AI_Applications_and_Technologies.pdf)
+  - 人工智慧應用與技術－專業級，財團法人中華民國電腦技能基金會 (2023)｜[Link](https://github.com/yiyangsyu/certificates/blob/main/AI_Applications_and_Technologies.pdf)
 
 ---
 
