@@ -10,7 +10,7 @@ Passionate about building intelligent systems through Machine Learning, Computer
 
 ## 📌 Current Status | 目前狀態
 
-Recently graduated with an M.S. degree from NTUT. Currently organizing research outcomes, technical portfolios, and learning materials while awaiting military service. Recently completed OpenAI Academy's *Apply AI at Work* and *Build with AI* tracks, gaining practical insights into building, deploying, and managing AI Agents for personal and enterprise workflows.
+Recently graduated with an M.S. degree from NTUT. Currently organizing research outcomes, technical portfolios, and learning materials while awaiting military service. Recently completed OpenAI Academy's **Apply AI at Work** and ***Build with AI*** tracks, gaining practical insights into building, deploying, and managing AI Agents for personal and enterprise workflows.
 
 近期已取得國立臺北科技大學碩士學位，目前正整理研究成果、技術作品集及學習資料，並等待入伍接受軍事訓練。近期亦完成 OpenAI Academy 的《Apply AI at Work》與《Build with AI》全系列課程認證，具備私人與企業級 AI Agent 的建置、應用與管理實務認知。
 
