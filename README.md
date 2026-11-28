@@ -134,6 +134,7 @@ https://www.nchc.org.tw/Message/MessageView/3941?mid=165&page=1
 - GitHub
 
 ### AI Applications
+- AI Agents & Agentic Workflows
 - Multimodal AI
 - LLM Systems
 - Computer Vision
